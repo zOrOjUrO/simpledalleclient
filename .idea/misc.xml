@@ -4,9 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Gokul/AndroidStudioProjects/simpledalleclient/app/src/main/res/drawable-v24/card_shadow_bg.xml" value="0.137" />
+        <entry key="..\:/Users/Gokul/AndroidStudioProjects/simpledalleclient/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.112" />
+        <entry key="..\:/Users/Gokul/AndroidStudioProjects/simpledalleclient/app/src/main/res/drawable/ic_baseline_error_24.xml" value="0.112" />
+        <entry key="..\:/Users/Gokul/AndroidStudioProjects/simpledalleclient/app/src/main/res/drawable/ic_baseline_input_24.xml" value="0.112" />
+        <entry key="..\:/Users/Gokul/AndroidStudioProjects/simpledalleclient/app/src/main/res/drawable/ic_launcher_background.xml" value="0.112" />
         <entry key="..\:/Users/Gokul/AndroidStudioProjects/simpledalleclient/app/src/main/res/drawable/load.xml" value="0.1445" />
         <entry key="..\:/Users/Gokul/AndroidStudioProjects/simpledalleclient/app/src/main/res/drawable/outline_textbox.xml" value="0.2715" />
-        <entry key="..\:/Users/Gokul/AndroidStudioProjects/simpledalleclient/app/src/main/res/drawable/splash.xml" value="0.2265" />
+        <entry key="..\:/Users/Gokul/AndroidStudioProjects/simpledalleclient/app/src/main/res/drawable/splash.xml" value="0.137" />
         <entry key="..\:/Users/Gokul/AndroidStudioProjects/simpledalleclient/app/src/main/res/layout/activity_load.xml" value="0.1" />
         <entry key="..\:/Users/Gokul/AndroidStudioProjects/simpledalleclient/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/Gokul/AndroidStudioProjects/simpledalleclient/app/src/main/res/layout/activity_result.xml" value="0.11005434782608696" />
