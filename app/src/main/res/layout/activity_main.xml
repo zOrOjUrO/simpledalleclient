@@ -35,7 +35,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:textColor="@color/colorPrimaryDark"
+            android:textColor="@color/material_dynamic_secondary0"
             />
 
     </com.google.android.material.textfield.TextInputLayout>
